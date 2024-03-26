@@ -1,4 +1,4 @@
-package com.coderhouse.entidades;
+package com.coderhouse.modelos;
 
 import java.util.List;
 
